@@ -1,16 +1,1 @@
-A basket-style bowl designed to contain and suspend the sample under analysis during degradation and water absorption experiments, allowing controlled exposure to the testing medium.
 
-Printing Recommendations
-
-To ensure mechanical stability and reproducibility, the following printing parameters are recommended:
-
-Material:
-Chemically resistant thermoplastics such as PETG, ABS, or PLA (depending on the testing environment and temperature).
-
-Infill:
-30–50% infill (gyroid or grid recommended) to balance rigidity and material usage.
-
-Orientation:
-Print upright with the base on the build plate to preserve geometry and ensure uniform wall thickness.
-
-Specific or updated printing parameters may be specified directly in the model folder or in accompanying documentation.
